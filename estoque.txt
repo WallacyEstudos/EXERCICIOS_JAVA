@@ -1,0 +1,3 @@
+lapis: 4
+chaveiro: 10
+manteiga: 30
